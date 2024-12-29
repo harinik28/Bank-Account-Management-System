@@ -37,4 +37,4 @@ A comprehensive C# project simulating a **bank account management system** with 
 ## **Usage**
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/harinik28/Bank-Account-Management-System
